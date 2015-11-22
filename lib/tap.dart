@@ -1,11 +1,9 @@
-// Copyright (c) 2015, <your name>. All rights reserved. Use of this source code
+// Copyright (c) 2015, Kwang Yul Seo. All rights reserved. Use of this source code
 // is governed by a BSD-style license that can be found in the LICENSE file.
 
-/// The tap library.
+/// This package provides Ruby's [Object#tap method][tap] for Dart.
 ///
-/// This is an awesome library. More dartdocs go here.
+/// [tap]: http://ruby-doc.org/core-2.2.3/Object.html#method-i-tap
 library tap;
-
-// TODO: Export any libraries intended for clients of this package.
 
 export 'src/tap_base.dart';
