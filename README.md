@@ -2,6 +2,9 @@
 
 This package provides Ruby's [Object#tap method][tap] for Dart.
 
+[![Build Status](https://travis-ci.org/kseo/tap.svg)](https://travis-ci.org/kseo/tap)
+[![Coverage Status](https://coveralls.io/repos/kseo/tap/badge.svg?branch=master&service=github)](https://coveralls.io/github/kseo/tap?branch=master)
+
 [tap]: http://ruby-doc.org/core-2.2.3/Object.html#method-i-tap
 
 ## Usage
